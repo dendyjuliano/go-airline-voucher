@@ -130,8 +130,6 @@ internal/
   db/
     db.go
     migration.sql
-  models/
-    assignment.go
   seatmap/
     layout.go
 go.mod
